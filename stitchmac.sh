@@ -21,7 +21,7 @@ for (( i=1; i<=nd; i++ )); do
 		FN="stitched.pto"
 		OFN="stitched"
 		FOV=180
-		projectionNumber=3
+		projectionNumber=2
 		maskName="boardInTheMiddle.msk"
 		
 		
